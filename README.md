@@ -43,8 +43,6 @@ O esquema de cores utilizado para a interface do usuário será baseado em tons 
 
 ## Contato
 
-Para mais informações sobre o projeto, entre em contato:
-
 Nome: [Leandro Stefani]
 E-mail: [inafets_stefani@hotmail.com]
 
